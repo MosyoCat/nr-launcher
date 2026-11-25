@@ -1,2 +1,2 @@
 # nr-launcher
-NR Launcer İndirme Sayfası
+NR Launcher İndirme Sayfası
